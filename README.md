@@ -103,7 +103,7 @@ A card visual was used to represent count of customers.
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![dashboard_snapo](https://github.com/Miraz661/Sales_Report/blob/main/Global%20elec%20sales%20report.png)
 
  
  # Report Snapshot (Power BI DESKTOP)
