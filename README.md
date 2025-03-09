@@ -31,3 +31,22 @@ Businesses often struggle to track sales performance, identify revenue trends, a
 # Snapshot of Dashboard (Power BI Service)
 
 ![dashboard_snapo](https://github.com/Miraz661/Sales_Report/blob/main/Global%20elec%20sales%20report.png)
+
+## 🔍 Key Insights
++ Best-selling category: Computers contributed the highest revenue.
++ Peak Sales Period: February had the highest sales.
++ Sales Dip: Sales hit their lowest in April.
++ Most Profitable Country: United State generated the most profit.
+
+
+## 📢 Conclusion
+This Sales Performance Dashboard helps businesses identify key sales trends, optimize product strategies, and improve revenue generation. Future improvements may include predictive analytics and automation using Python.
+
+## 🏆 Contribution & Contact
+If you have any feedback or suggestions, feel free to connect with me!
+
+📧 Email: mirazh661@gmail.com
+📌 LinkedIn: https://www.linkedin.com/in/miraz-hossain-02005a268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+📂 GitHub: https://github.com/Miraz661
+
+🚀 Don't forget to ⭐ this repository if you find it useful!
