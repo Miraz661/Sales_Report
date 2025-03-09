@@ -14,9 +14,9 @@ Businesses often struggle to track sales performance, identify revenue trends, a
 
 
 ## Technologies Used
-- Power BI (Data Visualization & Reporting)
-- Excel (Data Preprocessing & Formatting)
-- DAX (Data Analysis Expressions) (Measures & Calculations)
+- Power BI (Data Visualization & Reporting) 📈
+- Excel (Data Preprocessing & Formatting) 💼
+- DAX (Data Analysis Expressions) (Measures & Calculations) 🔢
 
 
 ### Steps followed 
@@ -33,10 +33,10 @@ Businesses often struggle to track sales performance, identify revenue trends, a
 ![dashboard_snapo](https://github.com/Miraz661/Sales_Report/blob/main/Global%20elec%20sales%20report.png)
 
 ## 🔍 Key Insights
-+ Best-selling category: Computers contributed the highest revenue.
-+ Peak Sales Period: February had the highest sales.
-+ Sales Dip: Sales hit their lowest in April.
-+ Most Profitable Country: United State generated the most profit.
++ Best-selling category: Computers contributed the highest revenue. 💥
++ Peak Sales Period: February had the highest sales. 🌟
++ Sales Dip: Sales hit their lowest in April. 📉
++ Most Profitable Country: United State generated the most profit. 🏆
 
 
 ## 📢 Conclusion
