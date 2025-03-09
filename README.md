@@ -1,6 +1,6 @@
 # Sales Performance Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/view?r=eyJrIjoiOTNmN2UxNDItOTg3Yi00YjE5LWJmNTItZjdlY2IxZDRlZWM5IiwidCI6ImMzZjRhMjM4LTU2MGYtNGMxMS04ZWZkLTI0ZjMwZTMzODYxZiIsImMiOjEwfQ%3D%3D)
 
 ## Problem Statement
 Businesses often struggle to track sales performance, identify revenue trends, and analyze profitability effectively.To address these challenges, this Sales Performance Dashboard provides a dynamic and visually interactive solution using Power BI. It enables business leaders to monitor key sales metrics, compare performance across different dimensions, and make data-driven decisions to maximize profitability.
