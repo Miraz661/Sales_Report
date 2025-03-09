@@ -26,7 +26,13 @@ Businesses often struggle to track sales performance, identify revenue trends, a
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
            
            Although, by default, while calculating average, blank values are ignored.
-- Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender. 
+- Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender.
+
+# Snapshot of Dashboard (Power BI Service)
+
+![dashboard_snapo](https://github.com/Miraz661/Sales_Report/blob/main/Global%20elec%20sales%20report.png)
+
+  
 - Step 11 : Ratings Visual was used to represent different ratings mentioned below,
 
   (a) Baggage Handling
@@ -100,13 +106,3 @@ A card visual was used to represent count of customers.
  
  
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
-
-# Snapshot of Dashboard (Power BI Service)
-
-![dashboard_snapo](https://github.com/Miraz661/Sales_Report/blob/main/Global%20elec%20sales%20report.png)
-
- 
- # Report Snapshot (Power BI DESKTOP)
-
- 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
